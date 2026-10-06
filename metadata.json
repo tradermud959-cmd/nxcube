@@ -1,0 +1,6 @@
+{
+  "name": "NXCUBE Jump",
+  "description": "Game arcade seru NXCUBE Jump: Satu Ketukan, Sejuta Rintangan dengan visual neon glow, rintangan dinamis, dan power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
